@@ -10,3 +10,8 @@
 
 # @Software : PyCharm
 """this is manager.py"""
+
+
+class QQ:
+    """QQ类"""
+    pass
